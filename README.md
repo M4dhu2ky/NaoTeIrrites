@@ -38,9 +38,24 @@ Este projeto está em desenvolvimento ativo.
 *Unity Game Developer | C# Programmer | Gameplay Logic*
 
 ---
-🔗 **Conecte-se comigo no [LinkedIn](www.linkedin.com/in/idalercio-santos)**
+### Connect & Support
+<p align="left">
+  <a href="https://buymeacoffee.com/m4dhu2ky">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  
+  <a href="www.linkedin.com/in/idalercio-santos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-### ☕ Apoie o Desenvolvimento
-Se queres ajudar a acelerar os testes do modo Multiplayer, paga-me um café:
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/m4dhu2ky)
+  <a href="[https://x.com/m4dhu2ky">
+    <img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
 
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Mobile-Developing-blue?style=flat-square" alt="Status">
+</p>
