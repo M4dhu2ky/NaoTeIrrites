@@ -48,7 +48,7 @@ Este projeto está em desenvolvimento ativo.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="[https://x.com/m4dhu2ky">
+  <a href="https://x.com/m4dhu2ky">
     <img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </p>
@@ -59,3 +59,4 @@ Este projeto está em desenvolvimento ativo.
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Mobile-Developing-blue?style=flat-square" alt="Status">
 </p>
+
