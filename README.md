@@ -44,7 +44,7 @@ Este projeto está em desenvolvimento ativo.
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
   
-  <a href="www.linkedin.com/in/idalercio-santos">
+  <a href="https://www.linkedin.com/in/idalercio-santos">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
@@ -59,4 +59,5 @@ Este projeto está em desenvolvimento ativo.
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Mobile-Developing-blue?style=flat-square" alt="Status">
 </p>
+
 
