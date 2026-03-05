@@ -39,3 +39,8 @@ Este projeto está em desenvolvimento ativo.
 
 ---
 🔗 **Conecte-se comigo no [LinkedIn](www.linkedin.com/in/idalercio-santos)**
+
+### ☕ Apoie o Desenvolvimento
+Se queres ajudar a acelerar os testes do modo Multiplayer, paga-me um café:
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/m4dhu2ky)
+
