@@ -18,6 +18,7 @@ public class SceneLoader : MonoBehaviour
     public float fadeDuration = 0.4f;
 
     private static SceneLoader _instance;
+    public static SceneLoader Instance => _instance;
 
     void Awake()
     {
