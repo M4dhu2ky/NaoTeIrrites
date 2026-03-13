@@ -207,7 +207,6 @@ public class OfflineSetupController : MonoBehaviour
     private void SetSectionInteractable(GameObject section, bool interactable)
     {
         Toggle[] toggles = section.GetComponentsInChildren<Toggle>(true);
-        Debug.Log($"[SetSectionInteractable] {section.name} — encontrou {toggles.Length} toggles"); // Debug de teste
         foreach (Toggle t in toggles)
             t.interactable = interactable;
     }
